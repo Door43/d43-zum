@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zum:home|Door43 (zum)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zum|d43-zum repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zum/archive/master.zip|d43-zum.zip]]
+
+**Recent Changes**
+{{changes>ns = zum}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zum|Ethnologue data]]
+
